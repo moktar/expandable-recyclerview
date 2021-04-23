@@ -1,0 +1,3 @@
+include ':expandablerecyclerview'
+include ':sample'
+rootProject.name = "Expandable Recyclerview"

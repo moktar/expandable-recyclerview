@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Category Dishes</string>
+    <string name="price">$100</string>
+    <string name="almond_foods">Almond Foods</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Expandable_Recyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/Expandable_Recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/expandablerecyclerview/Expandable_Recyclerview.expandablerecyclerview.iml" filepath="$PROJECT_DIR$/.idea/modules/expandablerecyclerview/Expandable_Recyclerview.expandablerecyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/Expandable_Recyclerview.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/Expandable_Recyclerview.sample.iml" />
+    </modules>
+  </component>
+</project>
